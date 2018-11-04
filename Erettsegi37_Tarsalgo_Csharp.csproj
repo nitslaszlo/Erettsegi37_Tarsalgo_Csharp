@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="README.md" />
     <None Include="Társalgó_fel.pdf" />
     <None Include="Társalgó_jav.pdf" />
   </ItemGroup>
